@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 
 
-<!--
-**Torteresso/Torteresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on droplets in soft matter physics.
+- 🌱 I’m currently learning soft matter physics, c++ and how to use github.
+- 👯 I’m looking to collaborate on small projects to learn c++.
 
-Here are some ideas to get you started:
+***
+MOST IMPORTANT
+- 🤔 I’m looking for help to see if my beginner code follow good pratices for c++.
+***
+  
+- 💬 Ask me about anything.
+- 📫 How to reach me: github.
+- 😄 Pronouns: he.
+- ⚡ Fun fact: I like chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
